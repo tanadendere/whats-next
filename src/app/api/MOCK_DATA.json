@@ -1,0 +1,74 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "make": "Chevrolet",
+      "model": "1500",
+      "owner": "Ronda Emmatt",
+      "registration": "WP0AB2A8XCU948515"
+    },
+    {
+      "id": 2,
+      "make": "Mazda",
+      "model": "Miata MX-5",
+      "owner": "Glenn Oldland",
+      "registration": "WP0AA2A94FS959019"
+    },
+    {
+      "id": 3,
+      "make": "Subaru",
+      "model": "Alcyone SVX",
+      "owner": "Celia Greathead",
+      "registration": "JTJBARBZ0F2372163"
+    },
+    {
+      "id": 4,
+      "make": "Infiniti",
+      "model": "QX",
+      "owner": "Willem Icom",
+      "registration": "WBA6A0C53DD401455"
+    },
+    {
+      "id": 5,
+      "make": "Chevrolet",
+      "model": "Impala",
+      "owner": "Barbabra Crew",
+      "registration": "KMHTC6AD9CU061834"
+    },
+    {
+      "id": 6,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "owner": "Pietro Wilprecht",
+      "registration": "SAJWA0E79D8064172"
+    },
+    {
+      "id": 7,
+      "make": "Oldsmobile",
+      "model": "Silhouette",
+      "owner": "Lotti Capelow",
+      "registration": "JM1NC2JF1E0239401"
+    },
+    {
+      "id": 8,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "owner": "Pip Jenoure",
+      "registration": "5GAKRBKD9FJ195773"
+    },
+    {
+      "id": 9,
+      "make": "GMC",
+      "model": "Vandura 1500",
+      "owner": "Gussie Lynagh",
+      "registration": "5N1AN0NU4AC523583"
+    },
+    {
+      "id": 10,
+      "make": "Audi",
+      "model": "TT",
+      "owner": "Clarie Fines",
+      "registration": "WAUDL74F75N470355"
+    }
+  ]
+}
